@@ -1,3 +1,3 @@
 # my-awesome-project
 
-wokrshop tic tac
+wokrshop tic tac, le duo
